@@ -1,6 +1,6 @@
 name = "kubectl_jll"
 uuid = "ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45"
-version = "1.27.14+0"
+version = "1.28.10+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

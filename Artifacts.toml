@@ -1,42 +1,42 @@
 [[kubectl]]
 arch = "aarch64"
-git-tree-sha1 = "c114251e23e6d25bc4594f89fd3a3c63543f0c70"
+git-tree-sha1 = "692cb6510450be893da848002502067aa5bb9ed7"
 os = "macos"
 
     [[kubectl.download]]
-    sha256 = "e60138ce67c5c0ae5bfb581835b14194757175c1df080f3c75ef49e58747fecd"
-    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.27.14+0/kubectl.v1.27.14.aarch64-apple-darwin.tar.gz"
+    sha256 = "030833b82e7cf4f47e5364b2c40fda0376622e193bfe3cbb2b2dc4d204cd64d5"
+    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.28.10+0/kubectl.v1.28.10.aarch64-apple-darwin.tar.gz"
 [[kubectl]]
 arch = "aarch64"
-git-tree-sha1 = "7fe17c925796f66aff908425ff98afc4dc35393f"
+git-tree-sha1 = "29c8703973d09c2b591a35632302849a59ecd2ba"
 libc = "glibc"
 os = "linux"
 
     [[kubectl.download]]
-    sha256 = "6ca3d972d681d436f95427374115b6f0a9115258e296b9b4d123cb6bbbca6c4f"
-    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.27.14+0/kubectl.v1.27.14.aarch64-linux-gnu.tar.gz"
+    sha256 = "c4f2176d7e4bd37db6ea06006d988484f66d66e2a7fd96ef2ed3d6ab03d5d4c0"
+    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.28.10+0/kubectl.v1.28.10.aarch64-linux-gnu.tar.gz"
 [[kubectl]]
 arch = "x86_64"
-git-tree-sha1 = "644448462a6ff28bc86312ae6aec3e7f33079300"
+git-tree-sha1 = "178fa6a92d55031d112e50b1129669b625995a82"
 os = "macos"
 
     [[kubectl.download]]
-    sha256 = "cfd303ebb7e30506362dd5ccc060c5641bf95582d227546ced2bd7cdca49ba1f"
-    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.27.14+0/kubectl.v1.27.14.x86_64-apple-darwin.tar.gz"
+    sha256 = "be5897ae3f1a036cacb3c7c9f3d2279ea4a9c945c2255addb5a4b31ecbc266be"
+    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.28.10+0/kubectl.v1.28.10.x86_64-apple-darwin.tar.gz"
 [[kubectl]]
 arch = "x86_64"
-git-tree-sha1 = "6659021e57d32c0b129d0fa9fde351104492c154"
+git-tree-sha1 = "86b5894bd2ab61864619cf048e1e6bbc904ab5a9"
 libc = "glibc"
 os = "linux"
 
     [[kubectl.download]]
-    sha256 = "affba80734dc29d2db3aaa7cc25cc320fcf443e6279073d2179019edb13b6d90"
-    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.27.14+0/kubectl.v1.27.14.x86_64-linux-gnu.tar.gz"
+    sha256 = "5f60e0f049b9375eb668db8a278dc25f3ebde733da46b5c3a80d32cc7a27269d"
+    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.28.10+0/kubectl.v1.28.10.x86_64-linux-gnu.tar.gz"
 [[kubectl]]
 arch = "x86_64"
-git-tree-sha1 = "19b8a079e7b34a8961216b99ece359713cf08ca8"
+git-tree-sha1 = "37dbb7a9fa6d3ae6e2bcdc9911cc13c198e28be6"
 os = "windows"
 
     [[kubectl.download]]
-    sha256 = "cd82129347780f360d06c279c7030612dadcf8e539c2ae9c761705a360f96080"
-    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.27.14+0/kubectl.v1.27.14.x86_64-w64-mingw32.tar.gz"
+    sha256 = "cd9c449d758f2903d4f1fe84b489625841496ff1605634899d2b9d89ae3c514b"
+    url = "https://github.com/JuliaBinaryWrappers/kubectl_jll.jl/releases/download/kubectl-v1.28.10+0/kubectl.v1.28.10.x86_64-w64-mingw32.tar.gz"
